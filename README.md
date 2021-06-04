@@ -1,3 +1,4 @@
 # bioinformatics_journey
 
-I am an intern at icipe
+**I** am an intern at *icipe*
+
