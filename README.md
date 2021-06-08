@@ -1,3 +1,4 @@
 # bioinformatics_journey
 
-# personal summery
+**I** am an intern at *icipe*
+
